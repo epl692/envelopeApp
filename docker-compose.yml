@@ -4,3 +4,4 @@ envWeb:
      - "4313:80"
    volumes:
      - ./html:/var/www/html/
+     - ./money:/money/

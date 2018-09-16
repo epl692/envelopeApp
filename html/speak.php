@@ -10,7 +10,7 @@
       $phone = $_POST['phone'];
       $amount = $_POST['amount'];
       echo "<h1>You have spoken for \$$money, thank you.</h1>";
-      $filename = "money/$money.txt";
+      $filename = "/money/$money.txt";
       $handle = fopen($filename, 'w') or die("Failed to open $filename.");
       $data = "$name ($phone) spoke for \$$amount (\$$money)\n";
       fwrite($handle, $data);
