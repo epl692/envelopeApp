@@ -10,7 +10,7 @@
       <h3>WHEN: The trip is planned for February 13-22 2019.<br/>
 	WHO: Members of 3rd CRC in Zeeland, MI combined with GMB AE friends, and spouses, etc.<br/>
 	WHAT: Huricane relief and reconstruction<br/>
-	DONATION DEADLINE: November 24</h3>
+	DEADLINE: November 24</h3>
       </div>
     <div id="env-box">
     <?php
