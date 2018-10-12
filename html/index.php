@@ -6,10 +6,11 @@
     </head>
   <body>
     <div id="head"><h1>Help us get to Puerto Rico!</h1>
-      <h2>We're going to Puerto Rico and we need your help! Pick a availible donation amount below an give us a helping hand!</h2>
+      <h2>We're going to Puerto Rico and we need your help! Pick a available donation amount below an give us a helping hand!</h2>
       <h3>WHEN: The trip is planned for February 13-22 2019.<br/>
 	WHO: Members of 3rd CRC in Zeeland, MI combined with GMB AE friends, and spouses, etc.<br/>
-      WHAT: Huricane relief and reconstruction</h3>
+	WHAT: Huricane relief and reconstruction<br/>
+	DONATION DEADLINE: November 24</h3>
       </div>
     <div id="env-box">
     <?php

@@ -17,9 +17,11 @@
     ?>
     <br/>
     Please make checks payable to and return to:<br/>
-    John Smith<br/>
-    123 Lake Dr N<br/>
-    Holland, MI 49424<br/>
+    Third CRC Church<br/>
+    10 W Central Ave.<br/>
+    Zeeland, MI 49464<br/>
+    Attn Ron Snoeyink<br/>
+    Please add PR19 to the memo.<br/>
     <a href="index.php">Return to main page</a>
   </body>
 </html>
